@@ -1,4 +1,4 @@
-
+# This is given code
 def load_map(map_file_name):
     import csv
     try:
