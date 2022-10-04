@@ -3,7 +3,7 @@ File:    pyopoly.py
 Author:  Toni Olafunmiloye
 Date:    10/31/20
 Section: 41
-E-mail:  oolafun1@umbc.edu
+E-mail:  
 Description: This file is a simplified version of monopoly.
 """
 
